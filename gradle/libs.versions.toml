@@ -1,7 +1,7 @@
 [versions]
 androidXCoreKtx = "1.9.0"
 androidXLifecycleRuntimeKtx = "2.3.1"
-androidXActivity = "1.5.1"
+androidXActivity = "1.9.3"
 androidXComposeBom = "2022.10.00"
 
 
